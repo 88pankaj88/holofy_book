@@ -1,3 +1,5 @@
+Author: Pankaj Goyal
+
 To run the code, do 
 
 npm install
